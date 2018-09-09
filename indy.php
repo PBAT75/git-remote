@@ -11,6 +11,7 @@
   	case 'gun':
      		$indyWeapon = 'whip';
     	 	break;
-} echo "L'adversaire à un $opponentWeapon alors Indy prend un $indyWeapon" ;
+   } 
+   echo "L'adversaire à un $opponentWeapon alors Indy prend un $indyWeapon" ;
 
-?>
+
