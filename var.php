@@ -2,7 +2,9 @@
 $movieName = 'The Last Crusade';
 echo $movieName, '<br>' ;
 $seen = TRUE;
-echo $seen , '<br>';
+if (TRUE==$seen){
+    echo "yes" , '<br>';
+}
 
 $releaseYear = 1989;
 echo $releaseYear,'<br>' ;
